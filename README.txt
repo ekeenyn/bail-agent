@@ -13,9 +13,9 @@ Files included:
 - franklin-county-detention-center-bail-bonds.html
 
 EDIT THESE BEFORE PUBLISHING:
-1. Replace YOUR BUSINESS ADDRESS
-2. Replace YOUR ZIP
-3. Replace https://yourusername.github.io/awayhomebailbonds/ with your real GitHub Pages URL or custom domain
+1. Raleigh North Carolina
+2. 27601
+3. Replace https://yourusername.github.io/awayhomebailbonds/ with your real GitHub Pages URL or custom domain27
 4. Replace YOUR_FORM_ID with your Formspree ID if you want the contact form to work
 
 GITHUB PAGES:
