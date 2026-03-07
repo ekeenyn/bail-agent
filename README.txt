@@ -16,7 +16,7 @@ EDIT THESE BEFORE PUBLISHING:
 1. Raleigh North Carolina
 2. 27601
 3. Replace https://yourusername.github.io/awayhomebailbonds/ with your real GitHub Pages URL or custom domain27
-4. Replace YOUR_FORM_ID with your Formspree ID if you want the contact form to work
+4. https://formspree.io/f/myknyony
 
 GITHUB PAGES:
 - Upload all files to the root of your repository
