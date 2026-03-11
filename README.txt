@@ -15,7 +15,7 @@ Files included:
 EDIT THESE BEFORE PUBLISHING:
 1. Raleigh North Carolina
 2. 27601
-3. Replace https://yourusername.github.io/awayhomebailbonds/ with your real GitHub Pages URL or custom domain27
+3. Replace https://awayhomebailbonds.com/ with your real GitHub Pages URL or custom domain27
 4. https://formspree.io/f/myknyony
 
 GITHUB PAGES:
